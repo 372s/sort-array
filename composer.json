@@ -1,5 +1,5 @@
 {
-    "name": "psort/psort",
+    "name": "sortArray/sortArray",
     "type": "library",
     "require": {},
     "autoload": {
