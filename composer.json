@@ -1,5 +1,5 @@
 {
-    "name": "sortArray/sortArray",
+    "name": "sortArray",
     "type": "library",
     "require": {},
     "autoload": {
