@@ -1,0 +1,10 @@
+{
+    "name": "psort/psort",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
